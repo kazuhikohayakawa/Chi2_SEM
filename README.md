@@ -1,1 +1,1 @@
-# Chi2_SEM
+# corrected_chi2test_SEM
